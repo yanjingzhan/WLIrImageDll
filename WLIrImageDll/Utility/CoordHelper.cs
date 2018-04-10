@@ -52,6 +52,7 @@ namespace WLIrImageDll.Utility
                 y = margin;
 
             p = new Point(x, y);
+
         }    
     }
 }
